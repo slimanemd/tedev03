@@ -16,4 +16,4 @@ app = create_app()
 # routes
 @app.route('/')
 def index():
-    return 'Hello World'
+    return 'Hello World new message'
